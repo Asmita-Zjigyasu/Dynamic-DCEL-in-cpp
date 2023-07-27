@@ -3,17 +3,11 @@ Used Object Oriented Programming and concept of Pointers to build dynamic DCEL w
 
 
 My program accepts inputs of splits of the form:
-Split: 2 3
-Split: 1 4
-.
-.
-.
-Id: 1 2 5
-Id: 2 3 6
-.
-.
-.
+* Split: 2 3
+* Split: 1 4
 
+* Id: 1 2 5
+* Id: 2 3 6
 
 All my halfedges, vertices and faces are stored in separate vectors.
 
