@@ -17,13 +17,12 @@ Id: 2 3 6
 
 All my halfedges, vertices and faces are stored in separate vectors.
 
-My program outputs halfedges in the clockwise order. 
+My program outputs halfedges in a clockwise order. 
 It outputs halfedges once before the split and every time after a split has been implemented in the geometric figure, i.e. :
-Before split :
+* Before split :
 
-After split :
- 
-After split :
+* After split :
+
 
 
 The equation of line that I have used is : (y-y1)/(x-x1) = (y2-y1)/(x2-x1)
